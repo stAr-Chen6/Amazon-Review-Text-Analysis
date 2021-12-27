@@ -24,7 +24,8 @@ Folder "Code":
 4. Method2.py
         -All code to apply method 2: 
                 i) TF-IDF vectorizer;                                                                              
-		ii)predicting partial scores;                                                                                      		iii)computing R^2 and MAE between predicted overall score and ground truth. 
+		ii)predicting partial scores;                                                                                      		
+		iii)computing R^2 and MAE between predicted overall score and ground truth. 
                                                                                                  
 5. Method3.ipynb:
         -All code to apply method 3.

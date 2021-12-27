@@ -6,7 +6,7 @@
 
 Folder "Code":  
 1. Data Preprocessing.ipynb:  
-        -Get data about “sweatshirt” from the category "Clothing_Shoes_and_Jewelry";
+        -Get data about “sweatshirt” from the category "Clothing_Shoes_and_Jewelry";  
         -extract the data that the review part has more than 100 characters.  
 
 

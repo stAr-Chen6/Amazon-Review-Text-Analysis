@@ -4,26 +4,26 @@
 
 
 
-Folder "Code":
-1. Data Preprocessing.ipynb:
-        -Get data about “sweatshirt” from the category "Clothing_Shoes_and_Jewelry"
-        -extract the data that the review part has more than 100 characters.
+Folder "Code":  
+1. Data Preprocessing.ipynb:  
+        -Get data about “sweatshirt” from the category "Clothing_Shoes_and_Jewelry";
+        -extract the data that the review part has more than 100 characters.  
 
 
-2. Criteria Extraction and Evaluation.ipynb
-        -All code to extract the six criteria: 
-                i) LDA analysis method                                                                           
-		ii)TF-IDF with K-Means Clustering method
-        -All code to evaluate the six chosen criteria and show the importance level
+2. Criteria Extraction and Evaluation.ipynb:
+        -All code to extract the six criteria:  
+                i) LDA analysis method;                                                                              
+		ii)TF-IDF with K-Means Clustering method. 
+        -All code to evaluate the six chosen criteria and show the importance level. 
 
 
-3. Method1.ipynb:
-        -All code to apply method 1 and evaluation
+3. Method1.ipynb:  
+        -All code to apply method 1 and evaluation. 
 
 
-4. Method2.py
-        -All code to apply method 2: 
-                i) TF-IDF vectorizer;                                                                              
+4. Method2.py:  
+        -All code to apply method 2:   
+                i) TF-IDF vectorizer;                                                                             
 		ii)predicting partial scores;                                                                                      		
 		iii)computing R^2 and MAE between predicted overall score and ground truth. 
                                                                                                  

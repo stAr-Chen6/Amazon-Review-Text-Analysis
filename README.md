@@ -35,8 +35,8 @@ Folder "Code":
 
 
 
-Folder "Data":
-1.Method 1:
+Folder "Data":  
+1.Method 1:  
         -negative_word.txt:Globally defined negative words for Word Embedding	
         -positive_words.txt:Globally defined positive words for Word Embedding	
 

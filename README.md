@@ -27,8 +27,8 @@ Folder "Code":
 		ii)predicting partial scores;                                                                                      		
 		iii)computing R^2 and MAE between predicted overall score and ground truth. 
                                                                                                  
-5. Method3.ipynb:
-        -All code to apply method 3.
+5. Method3.ipynb:  
+        -All code to apply method 3.  
 
 
 
@@ -36,9 +36,9 @@ Folder "Code":
 
 
 Folder "Data":
-1.Method 1
-        -negative_word.txt:Globally defined negative words for Word Embedding
-        -positive_words.txt:Globally defined positive words for Word Embedding
+1.Method 1:
+        -negative_word.txt:Globally defined negative words for Word Embedding	
+        -positive_words.txt:Globally defined positive words for Word Embedding	
 
 
 2.Method 2

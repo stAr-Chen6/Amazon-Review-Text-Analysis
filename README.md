@@ -34,49 +34,6 @@ Folder "Code":
 		iii)computing R^2 and MAE between predicted overall score and ground truth. 
 
 
-
-
-
-
-Folder "Data":  
-1. Method 1:  
-        -negative_word.txt: Globally defined negative words for Word Embedding.	  
-        -positive_words.txt: Globally defined positive words for Word Embedding.	   
-
-
-2. Method 2:  
-        -method2_significance_analysis.xlsx: Student T-test between method 2 and baseline (random labeling).   	   
-
-
-3. Method 3:  
-        -method3_significance_analysis.xlsx: Student T-test between method 3 and baseline (random labeling).  	  
-
-
-4. Method Comparison:    
-        -method_performance.xlsx: Data of four different metrics that can evaluate the performance of three different methods.  	  
-        -method_comparison.xlsx: Student T-test between method 2 and method 3.  
-
-
-5. shirt_meta.csv:  
-        -All meta-data such as title about the products whose name contains “shirt”.  
-
-
-6. shirt_review.csv:  
-        -All data about the products whose name contains “shirt”.  
-
-
-7. sweatshirt.csv:  
-        -All reviews about sweatshirt from shirt_review.csv.  
-
-
-8. sweatshirt_100words.csv:  
-        -All reviews with more than 100 characters from sweatshirt.csv.  
-
-
-9. sweatshirt_sample1200.csv:  
-        -1200 reviews extracted from sweatshirt_100words.csv for manually labeling.  
-
-
 10. 1200.csv:  
         -Manually labeled dataset for training models and evaluation.  
 
